@@ -1,0 +1,22 @@
+
+body{
+    background-color: rgba(40, 104, 177, 0.986);
+}
+
+img{
+    transform: translateX(8%);
+
+}
+
+h1{
+    color: whitesmoke;
+    font: Arial, Helvetica, sans-serif; 
+    font-size: 36pt;
+    transform: translateX(1.5%);
+
+}
+
+p{
+  color: whitesmoke;  
+  font: normal 22pt Arial;
+}
